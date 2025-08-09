@@ -12,8 +12,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaovitorrom&theme=monokai&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorrom&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=joaovitorrom&theme=monokai&hide_border=true)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joaovitorrom&limit=5&theme=monokai&combine_all_yearly_contributions=true)
